@@ -1,7 +1,5 @@
 name := "minimized-list-serialization"
 
-scalaVersion := "2.10.5"
-
-libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4"
+scalaVersion := "2.11.6"
 
 //fork in Test := true

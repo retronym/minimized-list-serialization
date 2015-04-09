@@ -2,4 +2,4 @@ package issue
 
 case class Meh(s: String)
 
-case class Issue(n: String, list: List[Meh])
+case class Issue(n: String, list: Any)
